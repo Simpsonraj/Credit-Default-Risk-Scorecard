@@ -1,0 +1,6 @@
+{
+  "roc_auc": 0.8338,
+  "default_rate": 6.68,
+  "total_records": 149999,
+  "utilisation_multiplier": 10.1
+}
